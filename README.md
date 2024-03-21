@@ -1,5 +1,6 @@
 # Final-Task-Virtual-Internship-BI-Analyst-Bank-Muamalat
-Final Task Virtual Internship BI Analyst Bank Muamalat
+Final Task Bank Muamalat Business Intelligence Analyst Project Based Internship Program
+
 Tools: Google BigQuery, Google Data Studio
 Programming Language: SQL
 
